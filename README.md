@@ -1,8 +1,8 @@
-#### Basic Project
+#### First Project
 
 ### March 26, 2016
 
-A Basic Structure for Maven Projects
+A Intro Project with Basic Java Concepts
 
 * Git
 * Java 7
